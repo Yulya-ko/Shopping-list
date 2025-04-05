@@ -1,0 +1,27 @@
+body {
+  background-color: #ACD3A8;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.app {
+  background: #FFF7F3;
+  min-height: 80vh;
+  width: 500px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.image {
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
+h1 {
+  font-size: 35px;
+  font-family: "Inter", sans-serif;
+  color: #A62C2C;
+}
